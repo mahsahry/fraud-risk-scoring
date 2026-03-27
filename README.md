@@ -77,13 +77,3 @@ The Random Forest model relied most strongly on a relatively small subset of tra
 - V16
 
 This suggests that the fraud signal is concentrated in a limited number of anonymized features.
-
-## Repository Structure
-```text
-.
-├── README.md
-├── requirements.txt
-├── notebooks/
-├── images/
-├── data/
-└── results/
