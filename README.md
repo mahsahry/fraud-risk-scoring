@@ -3,9 +3,6 @@
 ## Project Overview
 This project investigates credit card fraud detection on a highly imbalanced transaction dataset. The goal is to build a machine learning pipeline that can identify fraudulent transactions while balancing fraud capture and false alarm rate.
 
-# Data
-
-This project uses the **Credit Card Fraud Detection** dataset from Kaggle.
 
 Dataset source:
 Credit Card Fraud Detection by ULB / Machine Learning Group
