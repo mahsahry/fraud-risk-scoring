@@ -1,8 +1,0 @@
-## Data
-
-This project uses the **Credit Card Fraud Detection** dataset from Kaggle.
-
-Dataset source:
-Credit Card Fraud Detection by ULB / Machine Learning Group
-
-The raw dataset is not included in this repository. Please download it from Kaggle and place it in the appropriate local folder before running the notebook.
